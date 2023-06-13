@@ -43,6 +43,32 @@ push <br><br> 원격저장소<br><br><br>pull
 1. 원격저장소
 2. push, pull
 
+## 6. 순서 없는 목록  <!-- + 또는 - 또는 * -->
+- 원격저장소
+- push, pull
+- 협업하기
+
+## 6. 텍스트 꾸미기
+**Git의  ***버전 관리 기능*** 사용할 수 있습니다.
+
+*아아*
+**아아아**
+***아아아***
+
+## 7. 소스코드
+```
+  <script>
+    let a=10;
+    let b=20;
+  <script>
+```
+
+## 8. 링크주소
+<http://www.multicampers.com>
+
+[멀티캠퍼스](http://www.multicampers.com)
+
+[멀티캠퍼스](http://www.multicampers.com, "클릭하면 멀티캠퍼스 홈페이지로 이동합니다.")
 
 
 
