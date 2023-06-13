@@ -12,6 +12,8 @@ HTML 은 Hyper Text Markup Language 약어로 HyperText(웹 페이지에서 다�
 # CSS란?
 CSS는 Cascading Style Sheets의 약자로 HTML, XHML, XML 같은 문서의 스타일을 꾸밀 때 사용하는 스타일 시트 언어입니다.
 ***
+  
+  ![이미지](ive.jpg)
 
 
 
