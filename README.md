@@ -71,6 +71,7 @@ push <br><br> 원격저장소<br><br><br>pull
 [멀티캠퍼스](http://www.multicampers.com, "클릭하면 멀티캠퍼스 홈페이지로 이동합니다.")
 
 ## 9. 이미지 넣기
+![아이브이미지]{./ive.jpg)
 
 
 
